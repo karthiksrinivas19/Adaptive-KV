@@ -1,0 +1,18 @@
+# Compiled class files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
